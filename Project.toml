@@ -1,0 +1,13 @@
+name = "merge_utils"
+uuid = "4694d099-0488-465d-80b9-9cb73bd1d103"
+authors = ["v1j4y <vijay.gopal.c@gmail.com> and contributors"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1.9"
+
+[targets]
+test = ["Test"]
